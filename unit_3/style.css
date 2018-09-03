@@ -1,0 +1,24 @@
+body{
+	border-top: 200;
+  text-align: center;
+  background: #fff;
+  color:#000;
+  font-family: Helvetica;
+  background-image: "hqv_bike.jpg";
+  font-kerning: 100;
+	}
+
+
+h1{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: 700;
+	text-transform: all;
+
+}
+
+h2{
+	font-family: Helvetica;
+	font-size: 18px;
+	font-weight: 400;
+
